@@ -14,6 +14,8 @@
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
+ <p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
+<br><br>
 
 
 #
