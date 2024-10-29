@@ -45,8 +45,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 
 
-  <p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
-<br><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=rayssaellen&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
